@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Levels/Cindy/map_cindy.umap",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Assets/Synty/PolygonNightClubs/Maps/Demo_DanceClub_Cindy.umap",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Levels/Cindy/Demo_DanceClub_Cindy.umap",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Blueprints/Inventory/Collectible/B_Drink2PickUp.uasset",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Blueprints/Inventory/Collectible/Stamina_Pickup.uasset",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Blueprints/Inventory/Collectible/B_FilePickUp.uasset",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Blueprints/Inventory/Collectible/B_BombPickUp.uasset",
+				"C:/Users/cindysu2/Desktop/CS445/Z-topia/FinalProject 5.3/Content/Blueprints/Inventory/Collectible/B_CashPickUp.uasset"
+			]
+		}
+	]
+}
